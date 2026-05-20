@@ -23,10 +23,9 @@ However, to ensure **complete methodological transparency and computational repr
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 3. Execute the analysis script:
-   ```bash
+   ```
    python main_analysis.py
-```bash
+```
 ### 📊 Key Statistical Highlights in the Code
 
 **Fig 13 Breakpoint Analysis:** The script rigorously applies a 2nd-degree localized polynomial regression strictly within the active hydrologic reversal zone (7-30 mm). By calculating the mathematical vertex of the fitted parabola ($X_{peak} = -c_1 / 2c_2$), it exacts the threshold at 18.0 mm ($R^2 = 0.989$), statistically validating the volumetric dilution effect.
-```
