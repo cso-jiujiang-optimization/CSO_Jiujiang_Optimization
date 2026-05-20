@@ -22,3 +22,6 @@ However, to ensure **complete methodological transparency and computational repr
 2. Install the required packages:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+3. Execute the analysis script:
+   ```bash
+   python main_analysis.py
