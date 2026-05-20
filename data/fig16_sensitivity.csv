@@ -1,0 +1,17 @@
+item,value,volume_sensitivity,cod_mass_sensitivity
+n_imperv,-20,-0.6,-0.9
+n_imperv,-50,-0.7,-1.0
+n_imperv,20,-0.4,-0.8
+n_imperv,50,-0.3,-0.7
+n_perv,-20,-8.7,-0.9
+n_perv,-50,-11.3,-1.1
+n_perv,20,-6.7,-0.7
+n_perv,50,-5.8,-0.6
+s_imperv,-20,-0.2,0.0
+s_imperv,-50,-0.2,0.0
+s_imperv,20,-0.2,0.0
+s_imperv,50,-0.2,0.0
+s_perv,-20,-15.0,-1.3
+s_perv,-50,-15.6,-1.3
+s_perv,20,-13.8,-1.3
+s_perv,50,-12.8,-1.2
